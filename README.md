@@ -28,7 +28,7 @@ Boilerplate for deploying LangChain on Digitalocean App Platform
    flask --app run app
    ```
 
-## Deploying to Google Cloud Run (Requires CloudSDK)
+## Deploying to Google Cloud Run, requires CloudSDK and Google Cloud Project with billing enabled
 
 1. Use Google builds command to create the docker image in the container registry
 
